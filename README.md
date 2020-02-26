@@ -8,7 +8,7 @@ Using the average method for grayscaling the image.
 3) Apply average method "(R+G+B)/3"
 4) Load the average values into the empty array which if of the size of the image.
 5) Convert the array into a Matrix and display the image.
-6) The resultatnt image is similar to a grayscaled image.
+6) The resultant image is similar to a grayscaled image.
 
 
 
